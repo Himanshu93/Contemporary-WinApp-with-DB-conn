@@ -1,0 +1,7 @@
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_SqlUtility\obj\Debug\Final_SqlUtility.csprojResolveAssemblyReference.cache
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_SqlUtility\bin\Debug\Final_SqlUtility.dll
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_SqlUtility\bin\Debug\Final_SqlUtility.pdb
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_SqlUtility\bin\Debug\Final_Core.dll
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_SqlUtility\bin\Debug\Final_Core.pdb
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_SqlUtility\obj\Debug\Final_SqlUtility.dll
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_SqlUtility\obj\Debug\Final_SqlUtility.pdb

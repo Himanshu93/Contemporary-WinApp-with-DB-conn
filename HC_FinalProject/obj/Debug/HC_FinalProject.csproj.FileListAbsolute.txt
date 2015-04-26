@@ -1,0 +1,15 @@
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\bin\Debug\HC_FinalProject.exe.config
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\bin\Debug\HC_FinalProject.exe
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\bin\Debug\HC_FinalProject.pdb
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\obj\Debug\HC_FinalProject.csprojResolveAssemblyReference.cache
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\obj\Debug\HC_FinalProject.Properties.Resources.resources
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\obj\Debug\HC_FinalProject.csproj.GenerateResource.Cache
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\obj\Debug\HC_FinalProject.exe
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\obj\Debug\HC_FinalProject.pdb
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\obj\Debug\HC_FinalProject.Welcome.resources
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\obj\Debug\HC_FinalProject.Customer.resources
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\bin\Debug\Final_Core.dll
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\bin\Debug\Final_SqlUtility.dll
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\bin\Debug\Final_Core.pdb
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\bin\Debug\Final_SqlUtility.pdb
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\HC_FinalProject\obj\Debug\HC_FinalProject.AddForm.resources

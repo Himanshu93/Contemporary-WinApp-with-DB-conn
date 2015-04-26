@@ -1,0 +1,5 @@
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_Core\bin\Debug\Final_Core.dll
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_Core\bin\Debug\Final_Core.pdb
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_Core\obj\Debug\Final_Core.csprojResolveAssemblyReference.cache
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_Core\obj\Debug\Final_Core.dll
+D:\work\UC\15 Spring\contemporary programming\programs\HC_FinalProject\Final_Core\obj\Debug\Final_Core.pdb
